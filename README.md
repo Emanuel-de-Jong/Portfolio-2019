@@ -17,7 +17,7 @@ It looks like a powerpoint presentation right now xd.
 ## Progress
 - Start date: 
 - Last change: 
-- Activity status: 
+- Activity status: To be started
 - Reason activity status: 
 - Completion status: 
 - Useable: 
