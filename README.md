@@ -2,8 +2,7 @@
  
 ## Description
 My first take on a portfolio.
-It's only a mockup for now and still needs a lot of work.
-It looks like a powerpoint presentation right now xd.
+It's only a mockup for now.
 
 
 ## Information
