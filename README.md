@@ -1,31 +1,14 @@
-# Portfolio
- 
-## Description
+# Portfolio 2019
 My first take on a portfolio.
+
 It's only a mockup for now.
 
+**Active Development:** <br>
+**Last Change:** <br>
 
-## Information
-- Type: 
-- For: 
-- Language: 
-- Programming languages: 
-- Frameworks and libraries: 
-
+| | |
+| :---: | :---: |
+| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
 
 ## Progress
-- Start date: 
-- Last change: 
 - Activity status: To be started
-- Reason activity status: 
-- Completion status: 
-- Useable: 
-- Reason useability: 
-- Main features included: 
-- Main features missing: 
-
-
-## Screenshots
-![](/Screenshots/.png)
-
-![](/Screenshots/.png)
