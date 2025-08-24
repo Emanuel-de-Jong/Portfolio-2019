@@ -1,7 +1,5 @@
 # Portfolio 2019
-My first take on a portfolio.
-
-It's only a mockup for now.
+My first take on a portfolio. It's only a mockup for now.
 
 **Active Development:** <br>
 **Last Change:** <br>
